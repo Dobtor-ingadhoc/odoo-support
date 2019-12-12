@@ -28,11 +28,12 @@
     'images': [],
     'depends': [
         "web",
-        "web_environment_ribbon",
+        #"web_environment_ribbon",
     ],
     'demo': [],
+    'data': [],
     'test': [],
     'installable': True,
-    'auto_install': True,
+    'auto_install': False,
     'application': False,
 }
