@@ -31,7 +31,6 @@
         #"web_environment_ribbon",
     ],
     'demo': [],
-    'data': [],
     'test': [],
     'installable': True,
     'auto_install': False,
