@@ -28,7 +28,7 @@
     'images': [],
     'depends': [
         "web",
-        #"web_environment_ribbon",
+        "web_environment_ribbon",
     ],
     'demo': [],
     'test': [],
