@@ -14,7 +14,7 @@
 Server Mode - Fetchmail
 =======================
 
-Disable Fetchmail on environments that are not production
+Disable receive mail on Fetchmail model on develop or test environments
 
 Installation
 ============
